@@ -1,0 +1,8 @@
+{
+  "name": "Nyaya-Agent: Legal Shield for Street Vendors",
+  "description": "A high-fidelity spatial reasoning and legal defense tool for Bengaluru street vendors, using tabletop digital twin calibration (₹200 note) and Gemini Multimodal Live API to provide cryptographic legal protection certificates.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
